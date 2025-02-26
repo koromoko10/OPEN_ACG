@@ -1,6 +1,7 @@
 # OPEN_ACG
 <img width="1000" src="https://github.com/koromoko10/OPEN_ACG/blob/main/Assets/ACG_logo.png"> <br> 
 これは **APPLE CATCH GAME VER.2** の公開リポジトリです<br>
+**[Scratch版](https://scratch.mit.edu/projects/709778498/)**<br>
 開発者:[koromoko10](https://lit.link/koromoko10/)
 ## スクリーンショット
 <img width="500" src="https://github.com/koromoko10/OPEN_ACG/blob/main/Assets/screenshots-1.png" title="screenshots-1"> <br>
